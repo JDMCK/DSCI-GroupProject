@@ -1,5 +1,0 @@
-Hey guys, so I thought I would make this so we could all keep the project formatting consistent and so we all know what exactly we have to do.
-
-I have already done the introduction, and read, wrangled, and mutated the data. As you guys can see, I documented my method under the "Overview & Description" section. This is part of the assignment. Please make sure you do this too as you go through your parts. The only bit of my code that should be changed is Jimmy adding the bracket system, i'm thinking [1-200], [201-400], etc.
-
-Hit me up on the discord if you have any questions about how I formatted everything.
